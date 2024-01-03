@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&color=6DB33F&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=LeeKing's+Back_End+GitHub)](https://git.io/typing-svg)
 
-Hello, here is howang's Repository
-Welcome to everyone!
+Hello, here is howang's Repository!
+<p></p>
+Welcome to everyone👋
 
 ## My Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
